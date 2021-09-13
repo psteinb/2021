@@ -157,7 +157,7 @@ Each submitted paper will be reviewed publicly by at least two experienced machi
 
 ## Accepted Papers 
 
-### Staying Ahead in the MOOC-Era by Teaching Innovative AI Courses
+### [Staying Ahead in the MOOC-Era by Teaching Innovative AI Courses](https://openreview.net/pdf?id=4MLUG42Q6Xh)
 *Patrick Glauner*
 
 As a result of the rapidly advancing digital transformation of teaching, universities have started to face major competition from Massive Open Online Courses (MOOCs). Universities thus have to set themselves apart from MOOCs in order to justify the added value of three to five-year degree programs to prospective students. In this paper, we show how we address this challenge at Deggendorf Institute of Technology in ML and AI. We first share our best practices and present two concrete courses including their unique selling propositions: Computer Vision and Innovation Management for AI. We then demonstrate how these courses contribute to Deggendorf Institute of Technology's ability to differentiate itself from MOOCs (and other universities).
@@ -187,7 +187,7 @@ The idea of chess-playing matchboxes, conceived by Martin Gardner as early as 19
 
 Machine and deep learning techniques are actively being developed with over 150 papers submitted daily to arXiv, each of which is introducing its own notation. To offer a course that reflects the latest developments of the field and illustrate them in a cohesive and consistent manner, one needs to systematically consume the literature, summarise and standardise it, implement working examples, and deliver a concise and consistent presentation of a given topic. This paper reports all the best practices developed by the author in their last decade of teaching experience.
 
-### Teaching Machine Learning for the Physical Sciences:A summary of lessons learned and challenges
+### [Teaching Machine Learning for the Physical Sciences:A summary of lessons learned and challenges](https://openreview.net/pdf?id=z-N7JMHjLO)
 *Viviana Acquaviva*
 
 This paper summarizes some challenges encountered and best practices established in several years of teaching Machine Learning for the Physical Sciences at the undergraduate and graduate level. I discuss motivations for teaching ML to Physicists, desirable properties of pedagogical materials such as accessibility, relevance, and likeness to real-world research problems, and give examples of components of teaching units.
@@ -207,8 +207,8 @@ Machine learning has seen a vast increase of interest in recent years, along wit
 
 Bates College, is a small liberal arts postsecondary institution in the northeast United States. An information literacy course, Calling Bull, serves as an introductory data science class as well as a prerequisite-free quantitative literacy class. In this context, we spend a week discussing machine learning, with an emphasis on facial recognition algorithms. The emphasis is on the general algorithmic approach, critical inquiry of the process and careful interpretation of results presented in research or decision-making. This module relies on the use of open educational materials, discussion, and careful attention to issues of marginalization and algorithmic justice.
 
-### Teaching Uncertainty Quantification in Machine Learning through Use Cases
-Matias Valdenegro-Toro
+### [Teaching Uncertainty Quantification in Machine Learning through Use Cases](https://openreview.net/pdf?id=QoB8QGu5ZSL)
+*Matias Valdenegro-Toro*
 
 Uncertainty in machine learning is not generally taught as general knowledge in Machine Learning course curricula. In this paper we propose a short curriculum for a course about uncertainty in machine learning, and complement the course with a selection of use cases, aimed to trigger discussion and let students play with the concepts of uncertainty in a programming setting. Our use cases cover the concept of output uncertainty, Bayesian neural networks and weight distributions, sources of uncertainty, and out of distribution detection. We expect that this curriculum and set of use cases motivates the community to adopt these important concepts into courses for safety in AI.
 
